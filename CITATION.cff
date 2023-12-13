@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: ISDEA+
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yucheng
+    family-names: Zhang
+    affiliation: Purdue University
+    email: zhan4332@purdue.edu
+repository-code: 'https://github.com/yuchengz99/ISDEA_PLUS'
